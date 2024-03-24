@@ -16,7 +16,7 @@ The project is designed with the following components:
 
 ## Getting Started
 
-After closing the repo, run the following command to start up the services.
+After cloning the repo, run the following command to start up the services.
 
     ```bash
     docker compose up
