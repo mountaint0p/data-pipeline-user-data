@@ -18,6 +18,6 @@ The project is designed with the following components:
 
 After cloning the repo, run the following command to start up the services.
 
-    ```bash
+    
     docker compose up
-    ```
+    
